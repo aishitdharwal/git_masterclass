@@ -1,3 +1,3 @@
 This project is a demo for git masterclass
-taught by mitulpatel & aishit.
+taught by mi & aishit.
 aishit changes
